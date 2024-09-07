@@ -1,8 +1,8 @@
-# example
+# Flutter project PKS_1
 
 A new Flutter project.
 
-## Getting Started
+## Практическая работа
 
 This project is a starting point for a Flutter application.
 
